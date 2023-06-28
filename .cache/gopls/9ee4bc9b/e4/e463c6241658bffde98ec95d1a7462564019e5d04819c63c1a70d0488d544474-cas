@@ -1,0 +1,1 @@
+[{"Location":{"uri":"file:///home/sopesvacas/ejemplo_despliegue/Main.go","range":{"start":{"line":3,"character":0},"end":{"line":3,"character":0}}},"Severity":1,"Code":"","CodeHref":"","Source":"syntax","Message":"expected declaration, found wo","SuggestedFixes":null,"Related":null,"Tags":null}]

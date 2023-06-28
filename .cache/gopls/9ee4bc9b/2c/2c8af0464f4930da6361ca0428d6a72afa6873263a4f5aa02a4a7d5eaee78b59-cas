@@ -1,0 +1,1 @@
+[{"Location":{"uri":"file:///home/sopesvacas/ejemplo_despliegue/prueba/hola.go","range":{"start":{"line":0,"character":8},"end":{"line":0,"character":8}}},"Severity":1,"Code":"","CodeHref":"","Source":"syntax","Message":"expected ';', found 'EOF'","SuggestedFixes":null,"Related":null,"Tags":null}]

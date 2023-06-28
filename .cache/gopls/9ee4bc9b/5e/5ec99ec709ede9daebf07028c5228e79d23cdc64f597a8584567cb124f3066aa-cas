@@ -1,0 +1,1 @@
+[{"Location":{"uri":"file:///home/sopesvacas/ejemplo_despliegue/hola.go","range":{"start":{"line":0,"character":0},"end":{"line":0,"character":0}}},"Severity":1,"Code":"","CodeHref":"","Source":"syntax","Message":"expected 'package', found pa","SuggestedFixes":null,"Related":null,"Tags":null}]

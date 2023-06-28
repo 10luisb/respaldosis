@@ -1,0 +1,1 @@
+[{"Location":{"uri":"file:///home/sopesvacas/ejemplo_despliegue/Main.go","range":{"start":{"line":2,"character":0},"end":{"line":2,"character":0}}},"Severity":1,"Code":"","CodeHref":"","Source":"syntax","Message":"expected 'package', found 'import'","SuggestedFixes":null,"Related":null,"Tags":null}]

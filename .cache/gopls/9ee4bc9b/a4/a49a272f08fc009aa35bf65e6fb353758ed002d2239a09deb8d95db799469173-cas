@@ -1,0 +1,1 @@
+[{"Location":{"uri":"file:///home/sopesvacas/ejemplo_despliegue/Main.go","range":{"start":{"line":23,"character":21},"end":{"line":23,"character":21}}},"Severity":1,"Code":"","CodeHref":"","Source":"syntax","Message":"missing ',' in parameter list","SuggestedFixes":null,"Related":null,"Tags":null}]

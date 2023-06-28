@@ -1,0 +1,2 @@
+./serverRedis.pb.go
+./serverRedis_grpc.pb.go
